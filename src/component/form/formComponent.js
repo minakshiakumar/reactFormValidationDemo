@@ -10,7 +10,6 @@ class Form extends Component {
     constructor() {
         super();
         this.state = {
-            // name:{value:'',errMsg:'',isValid:''},
             userInfo: {
                 name: '',
                 gender: '',
